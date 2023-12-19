@@ -1,0 +1,30 @@
+.project1{
+    display:inline-flex;
+    justify-content: space-between;
+    margin-left: 20px;
+    flex-direction: row;
+    margin-bottom: 30px;
+}
+.project2{
+    display:inline-flex;
+    justify-content: space-between;
+    margin-left: 20px;
+    flex-direction: row;
+    margin-bottom: 30px;
+}
+.project3{
+    display:inline-flex;
+    justify-content: space-between;
+    margin-left: 20px;
+    flex-direction: row;
+    margin-bottom: 30px;
+}
+.project4{
+    display:inline-flex;
+    justify-content: space-between;
+    margin-left: 30px;
+    margin-right: 20px;     
+    flex-direction: row;
+    margin-bottom: 30px;
+    height: 255px;
+}
